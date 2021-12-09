@@ -30,6 +30,7 @@ public class hibernateUtils {
 		prop.setProperty(Environment.SHOW_SQL, "true");
 		prop.setProperty(Environment.DEFAULT_SCHEMA, "dbproduct");
 		prop.setProperty(Environment.USE_NEW_ID_GENERATOR_MAPPINGS, "false");
+		prop.setProperty(Environment.HBM2DDL_AUTO, "create");
 
 		Configuration configuration = new Configuration();
 		configuration.setProperties(prop);
@@ -38,7 +39,6 @@ public class hibernateUtils {
 		configuration.addAnnotatedClass(Lacon.class);
 		configuration.addAnnotatedClass(Voiteur.class);
 		configuration.addAnnotatedClass(Moniteur.class);
-
 
 		sessionFactory = configuration.buildSessionFactory();
 

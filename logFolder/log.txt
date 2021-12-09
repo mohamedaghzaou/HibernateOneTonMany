@@ -1,0 +1,126 @@
+2021-12-06 14:38:23,233 - INFO : [main] (VoiteurDoa.java:30) - retrieving Car started, Car id 1
+2021-12-06 14:38:23,340 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 14:38:26,054 - ERROR : [main] (SqlExceptionHelper.java:142) - Unknown column 'lacons1_.voiteur_id_Voiteur' in 'field list'
+2021-12-06 14:38:26,059 - ERROR : [main] (VoiteurDoa.java:39) - error occured while retrieving Car id : 1could not extract ResultSet
+2021-12-06 14:38:53,585 - INFO : [main] (VoiteurDoa.java:30) - retrieving Car started, Car id 1
+2021-12-06 14:38:53,673 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 14:38:55,874 - INFO : [main] (VoiteurDoa.java:36) - retrievied successfully, Car id 1
+2021-12-06 14:39:48,058 - INFO : [main] (VoiteurDoa.java:30) - retrieving Car started, Car id 1
+2021-12-06 14:39:48,166 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 14:39:50,355 - INFO : [main] (VoiteurDoa.java:36) - retrievied successfully, Car id 1
+2021-12-06 14:44:20,117 - INFO : [main] (VoiteurDoa.java:65) - adding  Car operation started, Car id 
+2021-12-06 14:44:20,242 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 14:44:22,331 - INFO : [main] (VoiteurDoa.java:70) - Car successfully added, Car id 1
+2021-12-06 14:51:22,683 - INFO : [main] (VoiteurDoa.java:65) - adding  Car operation started, Car id 
+2021-12-06 14:51:22,863 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 14:51:25,133 - INFO : [main] (VoiteurDoa.java:70) - Car successfully added, Car id 2
+2021-12-06 14:56:17,867 - INFO : [main] (VoiteurDoa.java:58) - updating  Car operation started, Car id 
+2021-12-06 14:56:17,947 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 14:56:20,375 - INFO : [main] (VoiteurDoa.java:64) - Car successfully updated, Car id 1
+2021-12-06 14:56:34,510 - INFO : [main] (VoiteurDoa.java:58) - updating  Car operation started, Car id 
+2021-12-06 14:56:34,593 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 14:56:36,887 - ERROR : [main] (VoiteurDoa.java:67) - error occured while updating a CarRow was updated or deleted by another transaction (or unsaved-value mapping was incorrect) : [com.hibernate.Model.Voiteur#0]
+2021-12-06 15:06:20,449 - INFO : [main] (VoiteurDoa.java:50) - retrieving all Cars operation started
+2021-12-06 15:06:20,535 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:06:23,166 - INFO : [main] (VoiteurDoa.java:56) - all Cars retrievied successfully, number of cars retrieved : 2
+2021-12-06 15:07:51,345 - INFO : [main] (VoiteurDoa.java:50) - retrieving all Cars operation started
+2021-12-06 15:07:51,427 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:07:53,770 - INFO : [main] (VoiteurDoa.java:56) - all Cars retrievied successfully, number of cars retrieved : 2
+2021-12-06 15:08:37,146 - INFO : [main] (VoiteurDoa.java:96) - adding  Car operation started, Car id 
+2021-12-06 15:08:37,226 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:08:39,550 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 3
+2021-12-06 15:08:39,572 - INFO : [main] (VoiteurDoa.java:50) - retrieving all Cars operation started
+2021-12-06 15:08:39,741 - INFO : [main] (VoiteurDoa.java:56) - all Cars retrievied successfully, number of cars retrieved : 3
+2021-12-06 15:25:46,470 - INFO : [main] (VoiteurDoa.java:96) - adding  Car operation started, Car id 
+2021-12-06 15:25:46,551 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:25:48,729 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 4
+2021-12-06 15:25:48,748 - INFO : [main] (VoiteurDoa.java:30) - retrieving Car started, Car id 1
+2021-12-06 15:25:48,799 - INFO : [main] (VoiteurDoa.java:36) - retrievied successfully, Car id 1
+2021-12-06 15:31:00,686 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:31:00,994 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:31:03,394 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 5
+2021-12-06 15:31:03,409 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:31:03,411 - INFO : [main] (VoiteurDoa.java:30) - retrieving Car started, Car id 1
+2021-12-06 15:31:03,629 - INFO : [main] (VoiteurDoa.java:36) - retrievied successfully, Car id 1
+2021-12-06 15:31:03,635 - ERROR : [main] (VoiteurDoa.java:122) - error occured while retrieving coursesfailed to lazily initialize a collection of role: com.hibernate.Model.Voiteur.Lacons, could not initialize proxy - no Session
+2021-12-06 15:31:48,735 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:31:48,820 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:31:51,063 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 6
+2021-12-06 15:31:51,076 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:31:51,132 - ERROR : [main] (SqlExceptionHelper.java:142) - Unknown column 'lacons0_.voiteur_id_Voiteur' in 'field list'
+2021-12-06 15:31:51,136 - ERROR : [main] (VoiteurDoa.java:123) - error occured while retrieving coursescould not extract ResultSet
+2021-12-06 15:32:47,872 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:32:47,953 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:32:50,258 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 7
+2021-12-06 15:32:50,277 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:32:50,352 - ERROR : [main] (SqlExceptionHelper.java:142) - Unknown column 'lacons0_.voiteur_id_Voiteur' in 'field list'
+2021-12-06 15:32:50,360 - ERROR : [main] (VoiteurDoa.java:123) - error occured while retrieving coursescould not extract ResultSet
+2021-12-06 15:35:56,708 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:35:56,829 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:35:59,051 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 8
+2021-12-06 15:35:59,069 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:35:59,138 - ERROR : [main] (SqlExceptionHelper.java:142) - Unknown column 'lacons0_.eleve_id_Eleves' in 'field list'
+2021-12-06 15:35:59,141 - ERROR : [main] (VoiteurDoa.java:123) - error occured while retrieving courses , message : could not extract ResultSet
+2021-12-06 15:36:33,620 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:36:33,708 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:36:36,042 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 9
+2021-12-06 15:36:36,064 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:36:36,133 - ERROR : [main] (SqlExceptionHelper.java:142) - Unknown column 'lacons0_.eleve_id_Eleves' in 'field list'
+2021-12-06 15:36:36,137 - ERROR : [main] (VoiteurDoa.java:123) - error occured while retrieving courses , message : could not extract ResultSet
+2021-12-06 15:38:06,920 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:38:07,013 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:38:09,443 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 10
+2021-12-06 15:38:09,464 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:38:09,510 - INFO : [main] (VoiteurDoa.java:120) - courses successfully retrieved, Car id 1number of courses retrieved : 0
+2021-12-06 15:40:50,401 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:40:50,484 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:40:52,894 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 11
+2021-12-06 15:40:52,914 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:40:52,962 - INFO : [main] (VoiteurDoa.java:120) - courses successfully retrieved, Car id 1number of courses retrieved : 0
+2021-12-06 15:40:52,963 - INFO : [main] (VoiteurDoa.java:30) - retrieving Car started, Car id 1
+2021-12-06 15:40:52,969 - INFO : [main] (VoiteurDoa.java:36) - retrievied successfully, Car id 1
+2021-12-06 15:41:56,430 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:41:56,511 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:41:58,952 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 12
+2021-12-06 15:41:58,974 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:41:59,026 - INFO : [main] (VoiteurDoa.java:120) - courses successfully retrieved, Car id 1number of courses retrieved : 0
+2021-12-06 15:43:44,693 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:43:44,778 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:43:47,001 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 13
+2021-12-06 15:43:47,017 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:43:47,058 - INFO : [main] (VoiteurDoa.java:120) - courses successfully retrieved, Car id 1number of courses retrieved : 0
+2021-12-06 15:47:39,194 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:47:39,282 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:47:41,651 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 14
+2021-12-06 15:47:41,685 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:47:41,921 - ERROR : [main] (VoiteurDoa.java:124) - error occured while retrieving courses , message : Cannot invoke "java.util.List.size()" because "lacons" is null
+2021-12-06 15:48:07,754 - INFO : [main] (VoiteurDoa.java:96) - adding Car operation started
+2021-12-06 15:48:07,837 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 15:48:10,228 - INFO : [main] (VoiteurDoa.java:102) - Car successfully added, Car id 15
+2021-12-06 15:48:10,247 - INFO : [main] (VoiteurDoa.java:113) - retrieve courses of a specific  Car, Car id 1
+2021-12-06 15:48:10,443 - INFO : [main] (VoiteurDoa.java:120) - courses successfully retrieved, Car id 1number of courses retrieved : 0
+2021-12-06 16:38:33,648 - INFO : [main] (VoiteurDoa.java:93) - adding Car operation started
+2021-12-06 16:38:33,795 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 16:38:35,939 - INFO : [main] (VoiteurDoa.java:102) - Car successfully deleted, Car id :15
+2021-12-06 16:39:10,213 - INFO : [main] (VoiteurDoa.java:93) - adding Car operation started
+2021-12-06 16:39:10,293 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 16:39:12,414 - INFO : [main] (VoiteurDoa.java:102) - Car successfully deleted, Car id :14
+2021-12-06 16:39:12,414 - INFO : [main] (VoiteurDoa.java:51) - retrieving all Cars operation started
+2021-12-06 16:39:12,543 - INFO : [main] (VoiteurDoa.java:57) - all Cars retrievied successfully, number of cars retrieved : 13
+2021-12-06 16:45:02,616 - INFO : [main] (VoiteurDoa.java:93) - adding Car operation started
+2021-12-06 16:45:02,720 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 16:45:04,736 - INFO : [main] (VoiteurDoa.java:102) - Car successfully deleted, Car id :14
+2021-12-06 17:26:36,332 - INFO : [main] (VoiteurDoa.java:121) - adding Car operation started
+2021-12-06 17:26:36,518 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 17:26:38,778 - INFO : [main] (VoiteurDoa.java:128) - Car successfully added, Car id :16
+2021-12-06 17:31:05,291 - INFO : [main] (VoiteurDoa.java:121) - adding Car operation started
+2021-12-06 17:31:05,371 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-06 17:31:07,514 - INFO : [main] (VoiteurDoa.java:128) - Car successfully added, Car id :17
+2021-12-08 20:51:29,390 - INFO : [main] (VoiteurDoa.java:121) - adding Car operation started
+2021-12-08 20:51:29,605 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-08 20:51:33,127 - INFO : [main] (VoiteurDoa.java:128) - Car successfully added, Car id :1
+2021-12-08 20:52:05,149 - INFO : [main] (VoiteurDoa.java:121) - adding Car operation started
+2021-12-08 20:52:05,266 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-12-08 20:52:08,379 - INFO : [main] (VoiteurDoa.java:128) - Car successfully added, Car id :1
+2021-12-08 20:53:30,632 - INFO : [main] (VoiteurDoa.java:121) - adding Car operation started
+2021-12-08 20:53:30,777 - DEBUG : [main] (CoreLogging.java:28) - Logging Provider: org.jboss.logging.Log4jLoggerProvider

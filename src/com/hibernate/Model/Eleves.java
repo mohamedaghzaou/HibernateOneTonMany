@@ -31,7 +31,7 @@ public class Eleves {
 	private String cp;
 	private String ville;
 	
-	@OneToMany(mappedBy = "eleve", fetch = FetchType.EAGER)
+	@OneToMany(mappedBy = "eleve", fetch = FetchType.LAZY)
 	private List<Lacon> Lacons;
 
 	public Eleves(Integer id, String nom, String prenom, String cp, String ville) {
